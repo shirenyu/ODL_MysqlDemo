@@ -1,0 +1,9 @@
+module mysqlDemo {
+    yang-version 1;
+    namespace "urn:opendaylight:params:xml:ns:yang:mysqlDemo";
+    prefix "mysqlDemo";
+
+    revision "2015-01-05" {
+        description "Initial revision of mysqlDemo model";
+    }
+}
